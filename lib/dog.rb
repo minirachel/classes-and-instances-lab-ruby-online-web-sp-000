@@ -1,5 +1,5 @@
 class Dog
-  fido = Dog
+  fido = x
 
   # snoopy = Dog.new
   # snoopy
